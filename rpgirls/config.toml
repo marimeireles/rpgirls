@@ -1,0 +1,54 @@
+baseurl = "https://example.org/"
+title = "Rpgirls"
+theme = "hugo-nederburg-theme"
+languageCode = "pt-Br"
+# Enable comments by entering your Disqus shortname
+disqusShortname = ""
+# Enable Google Analytics by entering your tracking code
+googleAnalytics = ""
+preserveTaxonomyNames = true
+paginate = 5 #frontpage pagination
+
+[params]
+  description = "RPGirls é um grupo horizontal composto por mulheres que querem incluir mulheres no mundo nerd." # meta description
+  author = "RPGirls"
+  copyright = [
+    "Nederburg Hugo Theme by [Appernetic](https://appernetic.io).",
+    "Edited by [Mariana Meireles](github.com/marimeireles)."
+  ]
+
+
+  # Contact page
+     # Since this template is static, the contact form uses www.formspree.io as a
+     # proxy. The form makes a POST request to their servers to send the actual
+     # email. Visitors can send up to a 1000 emails each month for free.
+     #
+     # What you need to do for the setup?
+     #
+     # - set your email address under 'email' below (it is also used in Gravatar for the bio).
+     # - upload the generated site to your server
+     # - send a dummy email yourself to confirm your account
+     # - click the confirm link in the email from www.formspree.io
+     # - you're done. Happy mailing!
+  email = "roleplayinggirls@gmail.com"
+
+  # Nav links in the side bar
+  [[menu.main]]
+  name = "Início"
+  url = "/"
+  weight = 1
+
+  [[menu.main]]
+  name = "Sobre"
+  url = "sobre/"
+  weight = 2
+
+  [[menu.main]]
+  name = "Entre em contato"
+  url = "contato/"
+  weight = 3
+
+  [params.social]
+  facebook      = "http://facebook.com/rpgirlslife/"
+  email         = "roleplayinggirls@gmail.com"
+  instagram     = "https://www.instagram.com/rpg.girls/"
