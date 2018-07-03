@@ -8,6 +8,7 @@ disqusShortname = ""
 googleAnalytics = ""
 preserveTaxonomyNames = true
 paginate = 5 #frontpage pagination
+publishDir = "docs"
 
 [params]
   description = "RPGirls é um grupo horizontal composto por mulheres que querem incluir mulheres no mundo nerd." # meta description
