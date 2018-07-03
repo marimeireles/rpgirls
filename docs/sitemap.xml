@@ -3,45 +3,45 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://example.org/contact/</loc>
+    <loc>https://marimeireles.github.io/rpgirls/contact/</loc>
     <lastmod>2016-11-06T13:00:25+05:30</lastmod>
   </url>
   
   <url>
-    <loc>https://example.org/about/</loc>
+    <loc>https://marimeireles.github.io/rpgirls/about/</loc>
     <lastmod>2016-11-05T21:05:33+05:30</lastmod>
   </url>
   
   <url>
-    <loc>https://example.org/post/work1/</loc>
+    <loc>https://marimeireles.github.io/rpgirls/post/work1/</loc>
     <lastmod>2016-11-05T18:25:22+05:30</lastmod>
   </url>
   
   <url>
-    <loc>https://example.org/categories/</loc>
+    <loc>https://marimeireles.github.io/rpgirls/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.org/categories/inscri%C3%A7%C3%A3o/</loc>
-    <lastmod>2016-11-05T18:25:22+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://example.org/post/</loc>
+    <loc>https://marimeireles.github.io/rpgirls/categories/inscri%C3%A7%C3%A3o/</loc>
     <lastmod>2016-11-05T18:25:22+05:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.org/</loc>
+    <loc>https://marimeireles.github.io/rpgirls/post/</loc>
+    <lastmod>2016-11-05T18:25:22+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://marimeireles.github.io/rpgirls/</loc>
     <lastmod>2016-11-05T21:05:33+05:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.org/tags/</loc>
+    <loc>https://marimeireles.github.io/rpgirls/tags/</loc>
     <priority>0</priority>
   </url>
   
