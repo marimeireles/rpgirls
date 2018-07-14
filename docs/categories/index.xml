@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Rpgirls</title>
-    <link>https://marimeireles.github.io/rpgirls/categories/</link>
+    <link>//marimeireles.github.io/rpgirls/categories/</link>
     <description>Recent content in Categories on Rpgirls</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-Br</language>
     
-	<atom:link href="https://marimeireles.github.io/rpgirls/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="//marimeireles.github.io/rpgirls/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Inscrição</title>
-      <link>https://marimeireles.github.io/rpgirls/categories/inscri%C3%A7%C3%A3o/</link>
+      <link>//marimeireles.github.io/rpgirls/categories/inscri%C3%A7%C3%A3o/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://marimeireles.github.io/rpgirls/categories/inscri%C3%A7%C3%A3o/</guid>
+      <guid>//marimeireles.github.io/rpgirls/categories/inscri%C3%A7%C3%A3o/</guid>
       <description></description>
     </item>
     

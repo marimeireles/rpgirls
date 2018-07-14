@@ -1,4 +1,4 @@
-baseurl = "https://marimeireles.github.io/rpgirls/"
+baseurl = "//marimeireles.github.io/rpgirls/"
 title = "Rpgirls"
 theme = "hugo-nederburg-theme"
 languageCode = "pt-Br"
