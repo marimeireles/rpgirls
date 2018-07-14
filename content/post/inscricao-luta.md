@@ -1,7 +1,7 @@
 +++
 showonlyimage = true
 draft = false
-image = "img/portfolio/ificina-luta.jpg"
+image = "img/portfolio/fight.jpg"
 title = "Inscrição para oficina: Lute como uma garota"
 categories = [ "Inscrição"]
 weight = 0
