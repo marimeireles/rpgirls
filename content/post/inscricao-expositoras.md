@@ -1,6 +1,7 @@
 +++
 showonlyimage = true
 draft = false
+image = "img/portfolio/rogue.jpg"
 title = "Inscrição para expositoras"
 categories = [ "Inscrição"]
 weight = 0

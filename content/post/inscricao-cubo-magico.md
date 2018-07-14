@@ -1,6 +1,7 @@
 +++
 showonlyimage = true
 draft = false
+image = "img/portfolio/cubo.jpg"
 title = "Inscrição para oficina: Cubo Mágico"
 categories = [ "Inscrição"]
 weight = 0

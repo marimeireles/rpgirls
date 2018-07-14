@@ -1,6 +1,7 @@
 +++
 showonlyimage = true
 draft = false
+image = "img/portfolio/mestre.jpg"
 title = "Inscrição para narradoras"
 categories = [ "Inscrição"]
 weight = 0

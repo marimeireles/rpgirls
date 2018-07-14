@@ -11,4 +11,6 @@ Bom dia a tod@s! Estão abertas as inscrições para a oficina de Defesa Pessoal
 Horário: 9h às 11h
 Data: 29 de julho de 2018
 Endereço (o mesmo que o do evento): Wushen (Rua Sergipe 1122, segundo andar - Savassi)
+
+
 Link para inscrição: https://docs.google.com/…/1FAIpQLScujpETIu-6a6wd0C…/viewform

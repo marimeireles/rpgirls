@@ -1,6 +1,7 @@
 +++
 showonlyimage = true
 draft = false
+image = "img/portfolio/board.jpg"
 title = "Inscrição para monitoria de board games"
 categories = [ "Inscrição"]
 weight = 0
